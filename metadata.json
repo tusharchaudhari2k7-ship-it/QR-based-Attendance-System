@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic QR Attendance System",
+  "description": "College web-based attendance management system with short-lived dynamic QR tokens, cryptographic server verification, and role-based dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
